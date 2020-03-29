@@ -1,6 +1,4 @@
 {
-  "Arn": "arn:aws:medialive:us-east-1:899480002385:channel:4645376",
-  "ChannelClass": "STANDARD",
   "Destinations": [
     {
       "Id": "destination1",
@@ -404,7 +402,6 @@
       }
     ]
   },
-  "Id": "4645376",
   "InputAttachments": [
     {
       "InputAttachmentName": "This can be any name for the input",
