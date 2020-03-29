@@ -106,7 +106,7 @@
     ],
     "OutputGroups": [
       {
-        "Name": "Frankly-TN2224-zr1",
+        "Name": "Frankly-TN2224-fromrepo",
         "OutputGroupSettings": {
           "HlsGroupSettings": {
             "AdMarkers": [
