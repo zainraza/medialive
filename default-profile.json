@@ -11,7 +11,7 @@
         },
         {
           "PasswordParam": "/medialive/elemental",
-          "Url": "http://abc.com/b",
+          "Url": "http://abc.com/a",
           "Username": "elemental"
         }
       ]
