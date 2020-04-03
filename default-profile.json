@@ -6,12 +6,12 @@
       "Settings": [
         {
           "PasswordParam": "/medialive/elemental",
-          "Url": "",
+          "Url": "http://abc.com/b",
           "Username": "elemental"
         },
         {
           "PasswordParam": "/medialive/elemental",
-          "Url": "",
+          "Url": "http://abc.com/b",
           "Username": "elemental"
         }
       ]
@@ -19,10 +19,10 @@
   ],
   "EgressEndpoints": [
     {
-      "SourceIp": "http://abc.com"
+      "SourceIp": ""
     },
     {
-      "SourceIp": "http://abc.com"
+      "SourceIp": ""
     }
   ],
   "EncoderSettings": {
