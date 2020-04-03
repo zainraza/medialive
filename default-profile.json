@@ -19,10 +19,10 @@
   ],
   "EgressEndpoints": [
     {
-      "SourceIp": ""
+      "SourceIp": "http://abc.com"
     },
     {
-      "SourceIp": ""
+      "SourceIp": "http://abc.com"
     }
   ],
   "EncoderSettings": {
