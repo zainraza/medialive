@@ -6,12 +6,12 @@
       "Settings": [
         {
           "PasswordParam": "/medialive/elemental",
-          "Url": "http://delta-1-4exooorduppg5.cloud.elementaltechnologies.com/in/frankly-orchestration/frankly-orchestration-primary",
+          "Url": "",
           "Username": "elemental"
         },
         {
           "PasswordParam": "/medialive/elemental",
-          "Url": "http://delta-1-4exooorduppg5.cloud.elementaltechnologies.com/in/frankly-orchestration/frankly-orchestration-backup",
+          "Url": "",
           "Username": "elemental"
         }
       ]
@@ -19,10 +19,10 @@
   ],
   "EgressEndpoints": [
     {
-      "SourceIp": "35.168.127.92"
+      "SourceIp": ""
     },
     {
-      "SourceIp": "52.4.89.216"
+      "SourceIp": ""
     }
   ],
   "EncoderSettings": {
